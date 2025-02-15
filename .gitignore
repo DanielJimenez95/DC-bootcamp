@@ -16,7 +16,7 @@ venv.bak/
 .ipynb_checkpoints
 
 # Streamlit
-.streamlit/
+#.streamlit/
 
 # Logs
 *.log
