@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+
+# Virtual environments
+*.env
+*.venv
+*.
+env/
+venv/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# pycache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Custom
+logs/
+*.log
+*.csv
+*.dat
+*.sqlite
