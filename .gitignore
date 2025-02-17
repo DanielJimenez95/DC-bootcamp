@@ -45,6 +45,6 @@ __pycache__/
 # Custom
 logs/
 *.log
-*.csv
+##*.csv
 *.dat
 *.sqlite
